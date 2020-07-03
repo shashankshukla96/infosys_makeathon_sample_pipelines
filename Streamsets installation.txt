@@ -1,0 +1,9 @@
+
+  1. Download streamsets full tarball from https://streamsets.com/products/dataops-platform/data-collector/download/
+	
+  2. Extract it with tar zxvf fileNameHere.tgz
+
+  3. Go to root directory of the extracted streamsets folder
+
+  4. run bin/streamsets dc
+
